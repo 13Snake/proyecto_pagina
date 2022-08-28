@@ -1,2 +1,4 @@
 Este es el inicio de mi pagina web
-Version 1
+La pagina web habla acerca de mangas y da consejos
+si es que los necesitas como lector primerizo
+Version 2
