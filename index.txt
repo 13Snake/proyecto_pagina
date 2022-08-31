@@ -1,4 +1,5 @@
 Este es el inicio de mi pagina web
+Menu de navegacion de la parte de arriba
 La pagina web habla acerca de mangas y da consejos
 si es que los necesitas como lector primerizo
-Version 2
+Version 3
